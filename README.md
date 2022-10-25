@@ -1,6 +1,6 @@
 ## Hello 😎, I am Augusto Huerta
 
-I am Data Analyst who thinks that transforming data into results is the key to achievement. I love Python, Notion and coffee to organize and analyse my projects. My favorite mantra: Getting <del>shit<del> things done.
+I am Data Analyst who thinks that transforming data into results is the key to achievement. I love Python, Notion and coffee to organize and analyse my projects. My favorite mantra: Getting <del>shit<del/> things done.
 
 👨‍💻 Currently working on my [portfolio](https://augustohuerta.notion.site/e37e6bbe39d84967a21219096fe9c0cc?v=d799e48262644e14b7c915e76520f1f0).
   
